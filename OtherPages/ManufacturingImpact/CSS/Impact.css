@@ -146,3 +146,27 @@ height: 250px;
 margin-right: 20px;
 margin-top: 20px;
 float: right;
+}
+h5 {
+    color: white;
+    text-shadow: 5px 5px 2px black;
+    text-align: center;
+    font-size: 50px;
+}
+#GS {background:  url(http://www.thebluebook.com/inc/img/qp/58708/one-source-group-llc-gulfstream.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+width: 350px;
+height: 250px;
+margin-right: 20px;
+margin-top: 20px;
+float: right;
+}
+#GP {text-align: center;
+font-size:17.5px;
+margin-left: 15px;
+margin-right: 10px;
+color: white;
+font-family: Oswald;    
+}
