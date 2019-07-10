@@ -77,10 +77,9 @@ h1 {
 }
 
 .info {
-    background-color: #687A7A
-;
-        width: 80%;
-    height: 600px;
+    background-color: #687A7A;
+    max-width: 80%;
+    min-height: 600px;
     border: 40px;
     border-radius: 20px;
     margin: 20px;
@@ -96,7 +95,7 @@ height: 840px;}
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-width: 350px;
+width: 350px;    
 height: 350px;
 margin-right: 20px;
 margin-top: 20px;
@@ -114,7 +113,7 @@ font-size:17.5px;
 margin-left: 15px;
 margin-right: 10px;
 color: white;
-font-family: Oswald;
+font-family: Oswald;    
 }
 h3 {
     color: white;
